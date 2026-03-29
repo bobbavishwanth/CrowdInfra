@@ -94,3 +94,5 @@ const getPropertyModel = async () => {
 };
 
 module.exports = getPropertyModel;
+
+//
